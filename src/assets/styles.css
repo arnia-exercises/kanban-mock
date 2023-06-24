@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  gap: 1rem;
+}
+
+.column {
+  background-color: #999;
+  width: max(25%, 120px);
+  height: 90vh;
+}
